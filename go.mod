@@ -1,4 +1,4 @@
-module go-api-client-base
+module github.com/ymiz/go-api-client-base
 
 go 1.13
 
