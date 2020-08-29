@@ -6,7 +6,7 @@ package mock_rest
 
 import (
 	gomock "github.com/golang/mock/gomock"
-	rest "go-api-client-base/rest"
+	rest "github.com/ymiz/go-api-client-base/rest"
 	reflect "reflect"
 )
 
